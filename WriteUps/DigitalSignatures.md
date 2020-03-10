@@ -84,7 +84,8 @@ Lastly, click on the preivew icon in the upper right of the editor.  Fill out th
 
 ![Signature Demo](Images/signature-demo-input-form.JPG)
 
-I created a completed canvas app and packaged it as a solution if you want to play around with this more,
+I created a completed canvas app and packaged it as a 
+[solution](https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/DigitalSignatureDemo_1_0_0_1.zip) if you want to play around with this more,
 
 ![Final View](Images/signature-demo-final-list-view.JPG)
 
