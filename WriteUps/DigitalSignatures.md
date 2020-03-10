@@ -6,7 +6,7 @@ I put this sample together to show how you can create a Power Apps canvas app to
 ## Sample Solution File
 You can download the sample solution for this here to play around with yourself in Power Apps!
 
-[add link here]()
+[Signature Demo Solution File](https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/DigitalSignatureDemo_1_0_0_1.zip)
 
 Details on importing solution files can be found on our online docs below,
 
