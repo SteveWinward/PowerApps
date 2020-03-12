@@ -2,6 +2,11 @@
 
 Power Apps training resources, presentations and downloads.
 
+# Training Resources
+[Power Apps Online Docs](https://docs.microsoft.com/power-apps/start-building)
+
+[App in a Day Materials](https://aka.ms/appinaday)
+
 # Write Ups
 
 ## Digital Signature Canvas App
