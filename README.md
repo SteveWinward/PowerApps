@@ -7,6 +7,8 @@ Power Apps training resources, presentations and downloads.
 
 [App in a Day Materials](https://aka.ms/appinaday)
 
+[Power Platform Certifications](https://docs.microsoft.com/en-us/learn/certifications/browse/?products=power-platform)
+
 # Write Ups
 
 ## Digital Signature Canvas App
