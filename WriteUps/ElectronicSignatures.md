@@ -1,4 +1,4 @@
-# Digital Signatures using CDS File Field Type
+# Electronic Signatures using CDS File Field Type
 I put this sample together to show how you can create a Power Apps canvas app to capture a users signature and then save it to a CDS record.  This solution also allows you to avoid using a 3rd party solution to capture the signature portion.
 
 ![overview image](Images/signature-demo-final-list-view.JPG)
