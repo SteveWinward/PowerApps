@@ -80,7 +80,7 @@ Your edit form should now look like this,
 
 ![Edit Form](Images/signature-demo-pen-input-contorls-missing.JPG)
 
-Lastly, click on the preivew icon in the upper right of the editor.  Fill out the form and click on the check icon.  This will now save your first entity that includes a digital signature!
+Lastly, click on the preivew icon in the upper right of the editor.  Fill out the form and click on the check icon.  This will now save your first entity that includes an electronic signature!
 
 ![Signature Demo](Images/signature-demo-input-form.JPG)
 
