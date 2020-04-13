@@ -82,7 +82,7 @@ Putting this all together, when we create a new Signature entity we now receive 
 
 ![Email Results](Images/signed-form-email-output.JPG)
 
-## Sample Solution
+## Setting up the Sample Solution
 Below is the sample solution you can install in your CDS environment to test this.  
 
 [Electronic Demo Solution File](https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/ElectronicSignatureDemo_1_0_0_3.zip)
