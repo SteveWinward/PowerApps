@@ -6,7 +6,7 @@ I put this sample together to show how you can create a Power Apps canvas app to
 ## Sample Solution File
 You can download the sample solution for this here to play around with yourself in Power Apps!
 
-[Electronic Demo Solution File](https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/ElectronicSignatureDemo_1_0_0_3.zip)
+[Electronic Demo Solution File](https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/ElectronicSignatures/ElectronicSignatureDemo_1_0_0_3.zip)
 
 Details on importing solution files can be found on our online docs below,
 
@@ -85,7 +85,7 @@ Lastly, click on the preivew icon in the upper right of the editor.  Fill out th
 ![Signature Demo](Images/signature-demo-input-form.JPG)
 
 I created a completed canvas app and packaged it as a 
-[solution](https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/ElectronicSignatureDemo_1_0_0_3.zip) if you want to play around with this more,
+[solution](https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/ElectronicSignatures/ElectronicSignatureDemo_1_0_0_3.zip) if you want to play around with this more,
 
 ![Final View](Images/signature-demo-final-list-view.JPG)
 
