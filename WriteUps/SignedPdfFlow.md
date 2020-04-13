@@ -48,7 +48,7 @@ The Common Data Service exposes its data over REST with an OData endpoint.  The 
 ### Download the Signature Image
 The Pen Input result from the [Electronic Signatures Demo App](./ElectronicSignatures.md) was stored using the [File field type in CDS](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/file-attributes).  You could also use the [new Image field type](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/image-attributes) that supports full images too.
 
-The connnector we need to use here is the [HTTP with Azure AD](https://docs.microsoft.com/en-us/connectors/webcontents/).  Add the action to your Flow and then click on the "..." and click "+ Add new connection".  You need to setup this with the CDS Azure AD Application Information.  Below is the configuration for Commercial O365
+The connnector we need to use here is the [HTTP with Azure AD](https://docs.microsoft.com/en-us/connectors/webcontents/).  Add the action to your Flow and then click on the "..." and click "+ Add new connection".  You need to setup this with the CDS Azure AD Application Information ("https://<orgName>.crm.dynamics.com").  Below is the configuration for Commercial O365.
 
 ![Configure HTTP with Azure AD](Images/signed-form-HTTP-AAD-Config.JPG)
 
