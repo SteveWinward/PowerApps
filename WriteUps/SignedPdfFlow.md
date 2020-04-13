@@ -81,3 +81,15 @@ Finally we can email the copy of the generated PDF file.  Below is the setup for
 Putting this all together, when we create a new Signature entity we now receive an email to with the attached and signed PDF form.
 
 ![Email Results](Images/signed-form-email-output.JPG)
+
+## Sample Solution
+Below is the sample solution you can install in your CDS environment to test this.  
+
+[Electronic Demo Solution File](https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/ElectronicSignatureDemo_1_0_0_3.zip)
+
+Once installing the solution you need to run the following steps,
+
+Run the "SetupOneDrive" Flow manually.  You will need to re-establish the OneDrive connection.  This creates a template Word document in the root of your OneDrive environment (/Signatures/AgreementsTemplate_NEW.docx).  This is used by the Flow that creates the PDF file.
+
+Edit the "Power Apps Word Template Generation" Flow.  You will need to re-establish the connections to the various services it uses.  Enable the Flow and then create a new Signature record using the Signature Canvas App.  Then you can wait for the email to show up in the inbox that contains the PDF file.
+
