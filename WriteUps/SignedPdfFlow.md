@@ -36,17 +36,16 @@ Add a new action to get the display name of the user who created the entity.  Th
 
 ![Get User Info](Images/signed-form-get-user-info.JPG)
 
-### Store the Base OData URL
-The Common Data Service exposes its data over REST with an OData endpoint.  The URL for each environment is unique.  You could hardcode this URL for your Flow, but I chose to make my Flow dynamic for any environment.  Here I parse the results of the previous "Get a Record" action and parse the @odata.id attribute.  
-
-![Store Full OData URL](Images/signed-form-store-full-odata-url.JPG)
-
-![Parse base OData URL](Images/signed-form-store-base-odata-url.JPG)
 
 ### Download the Signature Image
 The Pen Input result from the [Electronic Signatures Demo App](./ElectronicSignatures.md) was stored using the [File field type in CDS](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/file-attributes).  You could also use the [new Image field type](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/image-attributes) that supports full images too.
 
-The connnector we need to use here is the [HTTP with Azure AD](https://docs.microsoft.com/en-us/connectors/webcontents/).  Add the action to your Flow and then click on the "..." and click "+ Add new connection".  You need to setup this with the CDS Azure AD Application Information ("https://\<orgName\>.crm.dynamics.com").  Below is the configuration for Commercial O365.
+Use the [Get file or image content](https://docs.microsoft.com/en-us/connectors/commondataserviceforapps/#get-file-or-image-content) action.
+
+![Get Image/File Action Config](Images/signed-form-save-image-action.JPG)
+
+### Download the Signature Image (alternate approach)
+The alternative to using the above action is the use the HTTP with Azure AD connector.
 
 ![Configure HTTP with Azure AD](Images/signed-form-HTTP-AAD-Config.JPG)
 
@@ -83,7 +82,7 @@ Putting this all together, when we create a new Signature entity we now receive 
 ## Setting up the Sample Solution
 Below is the sample solution you can install in your CDS environment to test this.  
 
-[Electronic Demo Solution File](https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/ElectronicSignatures/ElectronicSignatureDemo_1_0_0_3.zip)
+[Electronic Demo Solution File](https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/ElectronicSignatures/ElectronicSignatureDemo_1_0_0_6.zip)
 
 Once installing the solution you need to run the following steps,
 
