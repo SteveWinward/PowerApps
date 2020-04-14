@@ -1,6 +1,4 @@
 # Signed Form Generation from Word Templates
-This write up was put together on 4/13/2020.
-
 This example builds on the Electronic Signatures Demo app [Electronic Signatures Demo App](./ElectronicSignatures.md).  This explains how you can capture an electronic signature in a canvas app and then populate that into a Word template and create a PDF of the signed form.  
 
 ![Final Result](Images/signed-form-PDF-result.JPG)
@@ -68,7 +66,7 @@ Add a new action to Populate a Microsoft Word template.  Find the template file 
 
 
 ### Export the Word result as a PDF
-Now we want to use the Convert Word Document to PDF action.  In order to use this, we first have to save the previous result to OneDrive to a temporary file location.  We can also delete the temporary file after we create the PDF file.
+Now we want to use the Convert Word Document to PDF action.  In order to use this, we first have to save the previous result to OneDrive to a temporary file location.  We can also delete the temporary file after we create the PDF file.  One thing to note here.  The [Word Online (Business) connector](https://docs.microsoft.com/en-us/connectors/wordonlinebusiness/) needs a file path to reference a file in OneDrive while the [OneDrive for Business connector](https://docs.microsoft.com/en-us/Connectors/onedriveforbusiness/) uses the unique identifier.
 
 ![Export to PDF Steps](Images/signed-form-export-PDF.JPG)
 
