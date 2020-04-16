@@ -11,15 +11,15 @@ Here is an outline of how you can accopmlish this using the data from the [Elect
 ## Word Templates Overview
 Word templates with control types have been around for many years.  You can use them to standarize reports for your organization. Below is a link to read more about them,
 
-https://support.office.com/en-us/article/create-forms-that-users-complete-or-print-in-word-040c5cc1-e309-445b-94ac-542f732c8c8b?ui=en-US&rs=en-US&ad=US
+[Create Word Templates with Content Controls](https://support.office.com/en-us/article/create-forms-that-users-complete-or-print-in-word-040c5cc1-e309-445b-94ac-542f732c8c8b?ui=en-US&rs=en-US&ad=US)
 
 Power Apps and Dyanmics support Word Template files to create reports off of entities in CDS.  To date, those templates do not support image control types in Word templates.  
 
-https://docs.microsoft.com/en-us/power-platform/admin/using-word-templates-dynamics-365
+[Word Templates with D365](https://docs.microsoft.com/en-us/power-platform/admin/using-word-templates-dynamics-365)
 
 So for this example, we cannot use that feature.  Instead, we will use the [Word Online (Business) connector](https://docs.microsoft.com/en-us/connectors/wordonlinebusiness/).  This connector has support for many of the content control types that you can create in Word.
 
-https://docs.microsoft.com/en-us/connectors/wordonlinebusiness/#currently-supported-content-controls
+[Supported Content Controls](https://docs.microsoft.com/en-us/connectors/wordonlinebusiness/#currently-supported-content-controls)
 
 ## Setup
 Create a Word template as described above.  Next, add the template file to a location in your OneDrive for Business account.  Lastly, make sure you have the [Electronic Signatures Demo App](./ElectronicSignatures.md) running in your environment.
