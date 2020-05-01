@@ -20,3 +20,6 @@ Below is a step by step guide to build a canvas app with a digital signature inp
 This step by step builds on the Electronic Signature Canvas App.  This takes a captured electronic signature from a canvas app and creates a PDF file with the signature included.
 
 [Signed PDF Power Automate Flow](WriteUps/SignedPdfFlow.md)
+
+## DLP Policies with HTTP Connectors
+[Enable DLP Policies with HTTP Connectors](WriteUps/DlpPolicies.md)
