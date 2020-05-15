@@ -23,3 +23,6 @@ This step by step builds on the Electronic Signature Canvas App.  This takes a c
 
 ## DLP Policies with HTTP Connectors
 [Enable DLP Policies with HTTP Connectors](WriteUps/DlpPolicies.md)
+
+## Azure AD Connector in GCC
+[Azure AD Connector in GCC](WriteUps/AzureADGcc.md)
