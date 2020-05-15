@@ -25,3 +25,7 @@ Once this is done, any user in the tenant can now use the Azure AD connector in 
 
 ## Alternative to Azure AD Connector
 An alternative to using the Azure AD connector for some scenarios is to use the O365 Groups connector.  This also does not require admin consent for other users to use this connector.
+
+Docs to this connector are below,
+
+https://docs.microsoft.com/en-us/connectors/office365groups/
