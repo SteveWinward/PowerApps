@@ -1,5 +1,11 @@
 # Enable Azure AD Connector in GCC
-To use the Azure AD connector in GCC a Global Admin in your tenant needs to first consent for the organization to be able to use the connector.  Below are the steps to enable this for a tenant.
+To use the Azure AD connector in GCC a Global Admin in your tenant needs to first consent for the organization to be able to use the connector.  
+
+Below are the docs on the Azure AD connector for the Power Platform,
+
+https://docs.microsoft.com/en-us/connectors/azuread/
+
+Below are the steps to enable this for a tenant.
 
 * Go to the Power Automate service
 * Go to the Connections page (Data > Connections)
