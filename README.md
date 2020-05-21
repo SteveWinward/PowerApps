@@ -26,3 +26,8 @@ This step by step builds on the Electronic Signature Canvas App.  This takes a c
 
 ## Azure AD Connector in GCC
 [Azure AD Connector in GCC](WriteUps/AzureADGcc.md)
+
+## Azure Cognitive Services Computer Vision Integration
+A step by step guide on how to use Azure Computer Vision APIs in Azure commercial and Azure for Government.  This sample works in commercial O365, GCC and GCC High
+
+[Computer Vision Sample App](WriteUps/ComputerVision.md)
