@@ -34,6 +34,9 @@ To get this up and running in your environment follow the steps below.
 
 3. Go to your Power Apps environment.
 4. Create a new Connection for the Computer Vision API using the credentials from step 2.
+
+![Data Connection Creation](Images/computer-vision-data-connectors.JPG)
+
 5. Import the sample ComputerVisionGCC solution file.
 6. Edit the Power Apps Azure Gov Computer Vision Flow and expand the Computer Vision action step.  Add the Computer Vision connection you added in step 4.
 7. Edit the Computer Vision Canvas App.  You will get prompted for a connection to Computer Vision.  Ignore this warning by clicking Don't Allow.  Once you reconfigure the Power Automate Flow connection in the later steps this will no longer show up.
