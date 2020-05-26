@@ -1,5 +1,7 @@
 # Computer Vision Sample App
-This write explains how to integrate Azure Cognitive Services AI/ML services with the Power Platform.  Specifically this sample uses the Computer Vision API.  
+This write explains how to integrate Azure Cognitive Services AI/ML services with the Power Platform.  Specifically this sample uses the Computer Vision API. 
+
+https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/
 
 This sample works in commercial, GCC and GCC High environments of Power Platform.  This also works with Computer Vision APIs in both commercial Azure and Azure for Government.
 
@@ -28,6 +30,9 @@ The sample solution file for this demo can be found below,
 To get this up and running in your environment follow the steps below.
 
 1. Create a Computer Vision resource in your Azure subsription. 
+
+https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/
+
 2. Under Keys and Endpoint copy the access key and the endpoint URL for your Computer Vision service.
 
 ![Azure Setup](Images/computer-vision-azure-setup.JPG)
