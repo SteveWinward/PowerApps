@@ -23,7 +23,7 @@ The end result is a blurb of the Computer Vision API's caption of how it interpr
 ## Sample Solution
 The sample solution file for this demo can be found below,
 
-[Computer Vision Sample Solution](https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/ComputerVision/ComputerVisionGCC_1_0_0_3.zip)
+[Computer Vision Sample Solution](https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/ComputerVision/ComputerVisionGCC_1_0_0_6.zip)
 
 To get this up and running in your environment follow the steps below.
 
