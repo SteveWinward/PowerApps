@@ -1,9 +1,15 @@
-# Power Apps
+# PowerApps
 
 Power Apps training resources, presentations and downloads.
 
 # Training Resources
-[Power Apps Online Docs](https://docs.microsoft.com/power-apps/start-building)
+[PowerApps Online Docs](https://docs.microsoft.com/en-us/powerapps/)
+
+[PowerApps Learning Modules](https://docs.microsoft.com/en-us/learn/browse/?products=power-apps)
+
+[Power Automate Online Docs](https://docs.microsoft.com/en-us/power-automate/)
+
+[Power Automate Learning Modules](https://docs.microsoft.com/en-us/learn/browse/?products=power-automate&term=Power%20Automate)
 
 [App in a Day Materials](https://aka.ms/appinaday)
 
