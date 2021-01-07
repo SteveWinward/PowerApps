@@ -37,3 +37,8 @@ This step by step builds on the Electronic Signature Canvas App.  This takes a c
 A step by step guide on how to use Azure Computer Vision APIs in Azure commercial and Azure for Government.  This sample works in commercial O365, GCC and GCC High
 
 [Computer Vision Sample App](WriteUps/ComputerVision.md)
+
+## Azure Cognitive Services PII Redaction
+A sample Power Automate Flow that calls an Azure Cognitive Services service to redact PII information from text
+
+[Text Analytics PII Redaction](WriteUps/Redaction.md)
