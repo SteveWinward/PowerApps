@@ -20,4 +20,4 @@ https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/Redaction/
 * The import will fail, but you can save a new Flow as a draft.  
 * Update the Flow's Word for Business action to use the Word doc you previously updated
 * Update the Text Analytics URL and the Text Analytics API Key to use your instance of the Text Analytics service.
-* Save and text the Flow
+* Save and test the Flow
