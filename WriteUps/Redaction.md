@@ -2,6 +2,16 @@
 
 ![Flow Overview](Images/RedactionFlow.JPG)
 
+The Word document that gets generated from a sample text input of 
+
+``` 
+I had a wonderful trip to Seattle last week. My SSN is 123-43-1234 and my name is Steve Winward.  I work for Microsoft and my current IP is 103.1.0.104
+```
+
+is below =>
+
+![Flow Result](Images/RedactionFlowOutput.JPG)
+
 # Sample Redaction Flow
 Below is a link to download the sample solution Flow I demonstrate in the YouTube video.
 
