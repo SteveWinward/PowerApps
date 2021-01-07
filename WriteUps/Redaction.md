@@ -1,5 +1,7 @@
 # PII Redaction with Power Automate
 
+![Flow Overview](Images/RedactionFlow.JPG)
+
 # Sample Redaction Flow
 Below is a link to download the sample solution Flow I demonstrate in the YouTube video.
 
