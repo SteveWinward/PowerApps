@@ -1,4 +1,4 @@
-# Azure Cognitive Services Redaction with Power Automate
+# PII Redaction with Power Automate
 
 # Sample Redaction Flow
 Below is a link to download the sample solution Flow I demonstrate in the YouTube video.
