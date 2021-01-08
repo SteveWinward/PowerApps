@@ -15,7 +15,7 @@ is below =>
 # Sample Redaction Flow
 Below is a link to download the sample solution Flow I demonstrate in the YouTube video.
 
-https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/Redaction/RedactionDemo_20210107140714.zip
+https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/Redaction/RedactionDemo_20210108022331.zip
 
 Also, below is a link to a Word document that has content control types added which are used in the Flow sample.
 
