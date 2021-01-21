@@ -21,8 +21,8 @@ https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/PowerAutom
 
     https://docs.microsoft.com/en-us/power-platform/admin/trial-environments#multiple-ways-to-start-a-trial
 
-3. Import the Solution file referenced above.
+3. Import the PaginatedDemoSolution solution file (see download link above).
 
 4. Go to the Solution and to the sample table entity.
   * Choose get data from Excel
-  * Choose the SamplePagingData.csv file referenced above to populate the sample data
+  * Choose the SamplePagingData.csv file (see download link above) referenced above to populate the sample data
