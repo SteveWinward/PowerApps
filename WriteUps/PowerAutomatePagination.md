@@ -15,11 +15,11 @@ https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/PowerAutom
 # Install Steps
 1. Make sure you have an O365 tenant to use.  You can create a trial O365 tenant see notes below,
 
-https://danusher.com/how-do-i-cloud/how-to-create-an-e3-e5-trial-tenant/
+    https://danusher.com/how-do-i-cloud/how-to-create-an-e3-e5-trial-tenant/
 
 2. Make sure you have a Power Platform Environment to deploy the solution to.  How to create a trial Environment here,
 
-https://docs.microsoft.com/en-us/power-platform/admin/trial-environments#multiple-ways-to-start-a-trial
+    https://docs.microsoft.com/en-us/power-platform/admin/trial-environments#multiple-ways-to-start-a-trial
 
 3. Import the Solution file referenced above.
 
