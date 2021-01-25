@@ -25,3 +25,5 @@ https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/ComputerVi
 5. Go to the Solution and to the Computer Vision Read API Flow
 
 6. Update the Flow to use your actual Azure Computer Vision API Key and endpoint URL information.
+
+![Flow Setup](Images/computer-vision-ocr-setup-01.JPG)
