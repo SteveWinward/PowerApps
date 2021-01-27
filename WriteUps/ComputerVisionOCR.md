@@ -6,7 +6,7 @@ https://youtu.be/k_xcvKDtOWA
 # Sample OCR Solution
 Below is a link to download the sample solution file I demonstrate in the YouTube video.
 
-https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/ComputerVisionOCR/ComputerVisionOCR_1_0_0_2.zip
+https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/ComputerVisionOCR/ComputerVisionOCR_1_0_0_6.zip
 
 
 # Install Steps
