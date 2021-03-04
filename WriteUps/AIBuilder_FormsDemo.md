@@ -7,3 +7,4 @@ https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/AIBuilder_
 
 Sample filled out forms can be found below,
 
+https://github.com/SteveWinward/PowerApps/tree/master/WriteUps/Samples/AIBuilder_FormDemo/SampleForms
