@@ -20,7 +20,9 @@ https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/ComputerVi
 
 3. Create an Azure Computer Vision resource in your Azure subscription.  Save the endpoint and API key details for step 6
 
-4. Import the Computer Vision OCR solution file (see download link above).
+4. Import the Computer Vision OCR solution file (see download link above).  Details on how to import a solution with the Power Platform can be found below,
+
+    https://docs.microsoft.com/en-us/powerapps/maker/data-platform/import-update-export-solutions
 
 5. Go to the Solution and to the Computer Vision Read API Flow
 
