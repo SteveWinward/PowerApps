@@ -11,6 +11,6 @@ The sample driver licenses I use in this video can be found below,
 
 https://github.com/SteveWinward/PowerApps/raw/master/WriteUps/Samples/AIBuilder_IDReader/SampleDriversLicenses.zip
 
-The sample driver licneses were obtained from the following site,
+The sample driver licenses were obtained from the following site,
 
 https://www.insider.com/what-drivers-license-looks-like-in-every-state
