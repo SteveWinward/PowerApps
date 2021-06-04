@@ -13,7 +13,7 @@ https://github.com/SteveWinward/PowerApps/tree/master/WriteUps/Samples/AIBuilder
 
 Sample solution file that includes the Desktop Flow (ie RPA), Cloud Flow and AI Builder Model are included below,
 
-https://github.com/SteveWinward/PowerApps/tree/master/WriteUps/Samples/AIBuilder_FormDemo/FoodSignUpAutomation_1_0_0_1.zip
+https://github.com/SteveWinward/PowerApps/tree/master/WriteUps/Samples/AIBuilder_FormDemo/FoodSignUpAutomation_1_0_0_2.zip
 
 # Setup Notes
 1. Create an O365 tenant if you don't already have one.
@@ -29,7 +29,7 @@ https://docs.microsoft.com/en-us/data-integration/gateway/service-gateway-instal
 
 6. Install the sample solution file
 
-https://github.com/SteveWinward/PowerApps/tree/master/WriteUps/Samples/AIBuilder_FormDemo/FoodSignUpAutomation_1_0_0_1.zip
+https://github.com/SteveWinward/PowerApps/tree/master/WriteUps/Samples/AIBuilder_FormDemo/FoodSignUpAutomation_1_0_0_2.zip
 
 7. Run the "Food Sign Up Cloud Flow" and input a sample file from here,
 
