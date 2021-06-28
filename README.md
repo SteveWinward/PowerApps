@@ -17,11 +17,6 @@ Power Apps training resources, presentations and downloads.
 
 # Write Ups
 
-## Electronic Signature Canvas App
-Below is a step by step guide to build a canvas app with a digital signature input using all out of the box Power Apps and CDS functionality.
-
-[Electronic Signature Demo App](WriteUps/ElectronicSignatures.md)
-
 ## PDF Creation with Electronic Signatures
 This step by step builds on the Electronic Signature Canvas App.  This takes a captured electronic signature from a canvas app and creates a PDF file with the signature included.
 
